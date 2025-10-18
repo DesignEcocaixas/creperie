@@ -50,7 +50,7 @@ body {
 /*ALTERA AS CORES DO CONTORNO DA LOGO*/
 .logo img {
     width: 200px;
-    margin-top: 20px;
+    margin-top: 50px;
     /*filter: drop-shadow(0 0 10px #f4ee04) drop-shadow(0 0 5px #f4ee04) drop-shadow(0 0 5px #f4ee04);*/
 }
 
@@ -93,20 +93,20 @@ h2 {
 .content {
     position: relative;
     z-index: 1;
-    color: #fff;
+    color: #820000;
     text-align: center;
     font-size: 1.4rem;
     display: flex;
     align-items: center;
     flex-direction: column;
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 6%;
 }
 
 /*ESTILIZAÇÃO DOS BOTÕES*/
 .link-container {
-    background-color: #EB6C7D;
-    background-image: radial-gradient(#b10000 0.5px, transparent 0.5px);
+    background-color: #ffd000;
+    background-image: radial-gradient(#ddb400 0.5px, transparent 0.5px);
     background-size: 5px 5px;
     border-radius: 40px;
     /*ALTERA A LARGURA DOS BOTÕES*/
@@ -115,14 +115,14 @@ h2 {
     display: flex;
     align-items: center;
     gap: 8px;
-    font-family: 'ChunkFive', serif;
+    font-family: 'Poppins', serif;
     /*DESCOMENTAR CASO USE BORDAS*/
     /*border: 4px solid #f4ee04;*/
 }
 
 .link-container>a {
     text-decoration: none;
-    color: #fff;
+    color: #820000;
 }
 
 /*LOGO ECO*/
